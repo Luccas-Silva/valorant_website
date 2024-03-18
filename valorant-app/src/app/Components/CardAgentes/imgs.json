@@ -2,149 +2,107 @@
     {
         "id" : 1,
         "src" : "/assets/Property_Agentes/Property_Astra.svg",
-        "width": 150,
-        "height": 150,
-        "alt": "Property Astra."
+        "alt": "Property Astra"
     },
     {
         "id" : 2,
         "src" : "/assets/Property_Agentes/Property_Breach.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Breach"
     },
     {
         "id" : 3,
         "src" : "/assets/Property_Agentes/Property_Brimstone.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Brimstone"
     },
     {
         "id" : 4,
         "src" : "/assets/Property_Agentes/Property_Chamber.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Chamber"
     },
     {
         "id" : 5,
         "src" : "/assets/Property_Agentes/Property_Cypher.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Cypher"
     },
     {
         "id" : 6,
         "src" : "/assets/Property_Agentes/Property_Fade.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Fade"
     },
     {
         "id" : 7,
         "src" : "/assets/Property_Agentes/Property_Gekko.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Gekko"
     },
     {
         "id" : 8,
         "src" : "/assets/Property_Agentes/Property_Harbor.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Harbor"
     },
     {
         "id" : 9,
         "src" : "/assets/Property_Agentes/Property_Jett.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Jett"
     },
     {
         "id" : 10,
         "src" : "/assets/Property_Agentes/Property_KAYO.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property KAYO"
     },
     {
         "id" : 11,
         "src" : "/assets/Property_Agentes/Property_Killjoy.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Killjoy"
     },
     {
         "id" : 12,
         "src" : "/assets/Property_Agentes/Property_Neon.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Neon"
     },
     {
         "id" : 13,
         "src" : "/assets/Property_Agentes/Property_Omen.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Omen"
     },
     {
         "id" : 14,
         "src" : "/assets/Property_Agentes/Property_Phoenix.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Phoenix"
     },
     {
         "id" : 15,
         "src" : "/assets/Property_Agentes/Property_Raze.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Raze"
     },
     {
         "id" : 16,
         "src" : "/assets/Property_Agentes/Property_Reyna.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Reyna"
     },
     {
         "id" : 17,
         "src" : "/assets/Property_Agentes/Property_Sage.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Sage"
     },
     {
         "id" : 18,
         "src" : "/assets/Property_Agentes/Property_Skye.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Skye"
     },
     {
         "id" : 19,
         "src" : "/assets/Property_Agentes/Property_Sova.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Sova"
     },
     {
         "id" : 20,
         "src" : "/assets/Property_Agentes/Property_Viper.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Viper"
     },
     {
         "id" : 21,
         "src" : "/assets/Property_Agentes/Property_Yoru.svg",
-        "width": 150,
-        "height": 150,
-        "alt": ""
+        "alt": "Property Yoru"
     }
     
 

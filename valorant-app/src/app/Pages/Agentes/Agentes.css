@@ -31,10 +31,13 @@
 }
 
 .Agentes_txt_inicio hr {
-    color: #fff;
-    border: 0.1rem solid #fff;;
+    border: 0.1rem solid #fff;
 }
 
 .container_agentes {
     height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }

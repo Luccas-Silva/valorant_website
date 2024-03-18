@@ -1,0 +1,28 @@
+.CardsAgentes {
+    margin: 10rem 5rem;
+}
+
+.CardsAgentes h1{
+    margin-bottom: 5rem;
+    font-size: 7rem; 
+    font-weight: 800;
+    color: #ff4655;
+}
+
+.CardsAgentes h1 hr{
+    margin-bottom: 5rem;
+    border: 0.1rem solid #ff4655;
+}
+
+.CardAgente {
+    margin: 1rem;
+    border: solid 0.5rem #ff4655;
+    filter: grayscale(100%);
+    cursor: pointer;
+   
+}
+
+.CardAgente:hover {
+    transition: 0.5s;
+    filter: grayscale(0%);
+}
