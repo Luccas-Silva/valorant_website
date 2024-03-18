@@ -14,8 +14,8 @@ export default function Header() {
                     <Image
                         src="/assets/V_Logomark_White.svg"
                         className="logo"
-                        width={1}
-                        height={1}
+                        width={100}
+                        height={100}
                         alt="Logo do Valorant"
                     />    
                 </Link>
