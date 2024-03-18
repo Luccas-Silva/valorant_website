@@ -1,4 +1,5 @@
 
+import CardAgentes from '@/app/Components/CardAgentes/page';
 import './Agentes.css'
 
 export default function Agentes() {
@@ -10,7 +11,10 @@ export default function Agentes() {
                     <p>Encontre mais formas de plantar a Spike e enfrentar seus inimigos com lutadores, estrategistas e caçadores de todos os tipos.</p>
                     <hr/>
                 </div> 
-            </section>  
+            </section> 
+            <section className='container_agentes'>
+                <CardAgentes/>
+            </section> 
         </>
     );
 }

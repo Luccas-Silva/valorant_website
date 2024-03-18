@@ -17,7 +17,7 @@ export default function Home() {
         <div className="box-text">
           <h2>DESAFIE SEUS LIMITES</h2>
           <p>Misture o seu estilo e experiência em um cenário global e competitivo. Você terá 13 rodadas para atacar e defender com disparos certeiros e habilidades táticas. Com apenas uma vida por rodada, você deve pensar mais rápido que o oponente se quiser sobreviver. Encare inimigos nos modos Competitivo e Sem Ranque, além da Disputa da Spike e do Mata-Mata!</p>
-          <Link href="" target="_blank">
+          <Link href="/Pages/Agentes" target="_blank">
               <button>GUIA PARA INICIANTES</button>
           </Link>
         </div>
@@ -30,7 +30,7 @@ export default function Home() {
           <h1><hr/> SEUS <br/> AGENTES</h1>
           <h2>A CRIATIVIDADE É SUA MELHOR ARMA.</h2>
           <p>Mais do que armas e munição, VALORANT inclui agentes com habilidades adaptativas, rápidas e letais, que criam oportunidades para você exibir sua mecânica de tiro. Cada Agente é único, assim como os momentos de destaque de cada partida!</p>
-          <Link href="" target="_blank">
+          <Link href="/Pages/Agentes" target="_blank">
               <button className="btn-agentes">VER TODOS OS AGENTES</button>
           </Link>
         </div>
@@ -41,7 +41,7 @@ export default function Home() {
           <h1><hr/> SEUS <br/> MAPAS</h1>
           <h2>BATALHE AO REDOR DO MUNDO</h2>
           <p>Cada mapa serve como um palco para mostrar sua criatividade. Os mapas são feitos sob medida para estratégias de equipe, jogadas espetaculares e momentos eletrizantes. Faça as jogadas que todo mundo vai tentar imitar no futuro!</p>
-          <Link href="" target="_blank">
+          <Link href="/Pages/Agentes" target="_blank">
               <button>VER TODOS OS MAPAS</button>
           </Link>
         </div>
