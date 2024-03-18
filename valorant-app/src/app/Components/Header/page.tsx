@@ -3,7 +3,13 @@ import Image from "next/image";
 
 import "./Header.css"; 
 
+import dados from './links.json'
 import Jogarbtn from "../JogarBTN/page";
+
+interface Dados {
+    href : string;
+    name : string;
+}
 
 export default function Header() {
 
@@ -20,10 +26,11 @@ export default function Header() {
                     />    
                 </Link>
                 <ul >
-                    <li><Link href="#">AGENTES</Link></li>
-                    <li><Link href="#">MAPAS</Link></li>
-                    <li><Link href="#">ARSENAL</Link></li>
-                    <li><Link href="#">NOTÍCIAS</Link></li>
+                    {
+                        dados.map((link:Dados) =>(
+                            <li><Link href={ link.href }>{ link.name }</Link></li>
+                        ))
+                    }
                 </ul>
                 <Jogarbtn/>
             </nav>

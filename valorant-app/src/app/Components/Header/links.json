@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "name" : "HOME",
+        "href" : "/"
+    },
+    {
+        "id" : 2,
+        "name" : "AGENTES",
+        "href" : "/Pages/Agentes"
+    },
+    {
+        "id" : 3,
+        "name" : "MAPAS",
+        "href" : "/Pages/Agentes"
+    },
+    {
+        "id" : 4,
+        "name" : "ARSENAL",
+        "href" : "/Pages/Agentes"
+    },
+    {
+        "id" : 5,
+        "name" : "NOTÍCIAS",
+        "href" : "/Pages/Agentes"
+    }
+
+]
