@@ -5,6 +5,7 @@ import Header from "./Components/Header/page";
 import Footer from "./Components/Footer/page";
 
 import "./globals.css";
+import Agentes from "./Pages/Agentes/page";
 
 export const metadata: Metadata = {
   title: "Valorant",
