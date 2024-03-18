@@ -2,108 +2,127 @@
     {
         "id" : 1,
         "src" : "/assets/Property_Agentes/Property_Astra.svg",
-        "alt": "Property Astra"
+        "alt": "Property Astra",
+        "href" : "/"
     },
     {
         "id" : 2,
         "src" : "/assets/Property_Agentes/Property_Breach.svg",
-        "alt": "Property Breach"
+        "alt": "Property Breach",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 3,
         "src" : "/assets/Property_Agentes/Property_Brimstone.svg",
-        "alt": "Property Brimstone"
+        "alt": "Property Brimstone",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 4,
         "src" : "/assets/Property_Agentes/Property_Chamber.svg",
-        "alt": "Property Chamber"
+        "alt": "Property Chamber",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 5,
         "src" : "/assets/Property_Agentes/Property_Cypher.svg",
-        "alt": "Property Cypher"
+        "alt": "Property Cypher",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 6,
         "src" : "/assets/Property_Agentes/Property_Fade.svg",
-        "alt": "Property Fade"
+        "alt": "Property Fade",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 7,
         "src" : "/assets/Property_Agentes/Property_Gekko.svg",
-        "alt": "Property Gekko"
+        "alt": "Property Gekko",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 8,
         "src" : "/assets/Property_Agentes/Property_Harbor.svg",
-        "alt": "Property Harbor"
+        "alt": "Property Harbor",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 9,
         "src" : "/assets/Property_Agentes/Property_Jett.svg",
-        "alt": "Property Jett"
+        "alt": "Property Jett",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 10,
         "src" : "/assets/Property_Agentes/Property_KAYO.svg",
-        "alt": "Property KAYO"
+        "alt": "Property KAYO",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 11,
         "src" : "/assets/Property_Agentes/Property_Killjoy.svg",
-        "alt": "Property Killjoy"
+        "alt": "Property Killjoy",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 12,
         "src" : "/assets/Property_Agentes/Property_Neon.svg",
-        "alt": "Property Neon"
+        "alt": "Property Neon",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 13,
         "src" : "/assets/Property_Agentes/Property_Omen.svg",
-        "alt": "Property Omen"
+        "alt": "Property Omen",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 14,
         "src" : "/assets/Property_Agentes/Property_Phoenix.svg",
-        "alt": "Property Phoenix"
+        "alt": "Property Phoenix",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 15,
         "src" : "/assets/Property_Agentes/Property_Raze.svg",
-        "alt": "Property Raze"
+        "alt": "Property Raze",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 16,
         "src" : "/assets/Property_Agentes/Property_Reyna.svg",
-        "alt": "Property Reyna"
+        "alt": "Property Reyna",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 17,
         "src" : "/assets/Property_Agentes/Property_Sage.svg",
-        "alt": "Property Sage"
+        "alt": "Property Sage",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 18,
         "src" : "/assets/Property_Agentes/Property_Skye.svg",
-        "alt": "Property Skye"
+        "alt": "Property Skye",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 19,
         "src" : "/assets/Property_Agentes/Property_Sova.svg",
-        "alt": "Property Sova"
+        "alt": "Property Sova",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 20,
         "src" : "/assets/Property_Agentes/Property_Viper.svg",
-        "alt": "Property Viper"
+        "alt": "Property Viper",
+        "href" : "/Pages/Agentes"
     },
     {
         "id" : 21,
         "src" : "/assets/Property_Agentes/Property_Yoru.svg",
-        "alt": "Property Yoru"
+        "alt": "Property Yoru",
+        "href" : "/Pages/Agentes"
     }
-    
-
 ]
