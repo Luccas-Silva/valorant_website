@@ -1,0 +1,39 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #111;
+    position: sticky;
+    top: 0;
+}
+
+nav .logo {
+    height: 7.5rem;
+    width: 7.5rem;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 1rem;
+    margin: 0 1rem;
+    font-weight: 600;
+    border-radius: 1rem;
+}
+
+nav ul li a:hover {
+    background-color: #ff4655;
+}
+
+
+
