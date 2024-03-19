@@ -1,6 +1,6 @@
 
 import Image from "next/image";
-
+import CardAgentes from "@/app/Components/CardAgentes/page";
 import "../Cardes.css";
 
 export default function Gekko() {
@@ -16,6 +16,9 @@ export default function Gekko() {
                     <hr/>
                 </div>
             </section>
+            <section className='container_agentes'>
+                <CardAgentes/>
+            </section> 
         </>
     );
 }

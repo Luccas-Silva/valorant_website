@@ -1,7 +1,8 @@
 
 import Image from "next/image";
-
+import CardAgentes from "@/app/Components/CardAgentes/page";
 import "../Cardes.css";
+
 
 export default function Chamber() {
     return (
@@ -16,6 +17,9 @@ export default function Chamber() {
                     <hr/>
                 </div>
             </section>
+            <section className='container_agentes'>
+                <CardAgentes/>
+            </section> 
         </>
     );
 }

@@ -1,7 +1,8 @@
 
 import Image from "next/image";
-
+import CardAgentes from "@/app/Components/CardAgentes/page";
 import "../Cardes.css";
+
 
 export default function Cypher() {
     return (
@@ -16,6 +17,9 @@ export default function Cypher() {
                     <hr/>
                 </div>
             </section>
+            <section className='container_agentes'>
+                <CardAgentes/>
+            </section> 
         </>
     );
 }
