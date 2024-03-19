@@ -5,7 +5,13 @@ import Header from "./Components/Header/page";
 import Footer from "./Components/Footer/page";
 
 import "./globals.css";
-import Agentes from "./Pages/Agentes/page";
+
+import {register} from 'swiper/element/bundle'
+register();
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/scrollbar';
 
 export const metadata: Metadata = {
   title: "Valorant",

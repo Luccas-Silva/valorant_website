@@ -4,6 +4,7 @@ import "./page.css";
 import Jogarbtn from "./Components/JogarBTN/page";
 import Link from "next/link";
 
+
 export default function Home() {
   return (
     <>
