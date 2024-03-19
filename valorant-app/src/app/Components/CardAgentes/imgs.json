@@ -1,128 +1,89 @@
 [
     {
         "id" : 1,
-        "src" : "/assets/Property_Agentes/Property_Astra.svg",
-        "alt": "Property Astra",
-        "href" : "/"
+        "src" : "/assets/Property_Agentes/Property_Chamber.svg",
+        "alt": "Property Chamber",
+        "href" : "/Pages/Cardes/Chamber"
     },
     {
         "id" : 2,
-        "src" : "/assets/Property_Agentes/Property_Breach.svg",
-        "alt": "Property Breach",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Cypher.svg",
+        "alt": "Property Cypher",
+        "href" : "/Pages/Cardes/Cypher"
     },
+    
     {
         "id" : 3,
-        "src" : "/assets/Property_Agentes/Property_Brimstone.svg",
-        "alt": "Property Brimstone",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Gekko.svg",
+        "alt": "Property Gekko",
+        "href" : "/Pages/Cardes/Gekko"
     },
+    
     {
         "id" : 4,
-        "src" : "/assets/Property_Agentes/Property_Chamber.svg",
-        "alt": "Property Chamber",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Jett.svg",
+        "alt": "Property Jett",
+        "href" : "/Pages/Cardes/Jett"
     },
     {
         "id" : 5,
-        "src" : "/assets/Property_Agentes/Property_Cypher.svg",
-        "alt": "Property Cypher",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_KAYO.svg",
+        "alt": "Property KAYO",
+        "href" : "/Pages/Cardes/KAYO"
     },
     {
         "id" : 6,
-        "src" : "/assets/Property_Agentes/Property_Fade.svg",
-        "alt": "Property Fade",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Killjoy.svg",
+        "alt": "Property Killjoy",
+        "href" : "/Pages/Cardes/Killjoy"
     },
     {
         "id" : 7,
-        "src" : "/assets/Property_Agentes/Property_Gekko.svg",
-        "alt": "Property Gekko",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Neon.svg",
+        "alt": "Property Neon",
+        "href" : "/Pages/Cardes/Neon"
     },
     {
         "id" : 8,
-        "src" : "/assets/Property_Agentes/Property_Harbor.svg",
-        "alt": "Property Harbor",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Omen.svg",
+        "alt": "Property Omen",
+        "href" : "/Pages/Cardes/Omen"
     },
+    
     {
         "id" : 9,
-        "src" : "/assets/Property_Agentes/Property_Jett.svg",
-        "alt": "Property Jett",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Raze.svg",
+        "alt": "Property Raze",
+        "href" : "/Pages/Cardes/Raze"
     },
     {
         "id" : 10,
-        "src" : "/assets/Property_Agentes/Property_KAYO.svg",
-        "alt": "Property KAYO",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Reyna.svg",
+        "alt": "Property Reyna",
+        "href" : "/Pages/Cardes/Reyna"
     },
     {
         "id" : 11,
-        "src" : "/assets/Property_Agentes/Property_Killjoy.svg",
-        "alt": "Property Killjoy",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Sage.svg",
+        "alt": "Property Sage",
+        "href" : "/Pages/Cardes/Sage"
     },
     {
         "id" : 12,
-        "src" : "/assets/Property_Agentes/Property_Neon.svg",
-        "alt": "Property Neon",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Skye.svg",
+        "alt": "Property Skye",
+        "href" : "/Pages/Cardes/Skye"
     },
     {
         "id" : 13,
-        "src" : "/assets/Property_Agentes/Property_Omen.svg",
-        "alt": "Property Omen",
-        "href" : "/Pages/Agentes"
+        "src" : "/assets/Property_Agentes/Property_Sova.svg",
+        "alt": "Property Sova",
+        "href" : "/Pages/Cardes/Sova"
     },
     {
         "id" : 14,
-        "src" : "/assets/Property_Agentes/Property_Phoenix.svg",
-        "alt": "Property Phoenix",
-        "href" : "/Pages/Agentes"
-    },
-    {
-        "id" : 15,
-        "src" : "/assets/Property_Agentes/Property_Raze.svg",
-        "alt": "Property Raze",
-        "href" : "/Pages/Agentes"
-    },
-    {
-        "id" : 16,
-        "src" : "/assets/Property_Agentes/Property_Reyna.svg",
-        "alt": "Property Reyna",
-        "href" : "/Pages/Agentes"
-    },
-    {
-        "id" : 17,
-        "src" : "/assets/Property_Agentes/Property_Sage.svg",
-        "alt": "Property Sage",
-        "href" : "/Pages/Agentes"
-    },
-    {
-        "id" : 18,
-        "src" : "/assets/Property_Agentes/Property_Skye.svg",
-        "alt": "Property Skye",
-        "href" : "/Pages/Agentes"
-    },
-    {
-        "id" : 19,
-        "src" : "/assets/Property_Agentes/Property_Sova.svg",
-        "alt": "Property Sova",
-        "href" : "/Pages/Agentes"
-    },
-    {
-        "id" : 20,
         "src" : "/assets/Property_Agentes/Property_Viper.svg",
         "alt": "Property Viper",
-        "href" : "/Pages/Agentes"
-    },
-    {
-        "id" : 21,
-        "src" : "/assets/Property_Agentes/Property_Yoru.svg",
-        "alt": "Property Yoru",
-        "href" : "/Pages/Agentes"
+        "href" : "/Pages/Cardes/Viper"
     }
 ]

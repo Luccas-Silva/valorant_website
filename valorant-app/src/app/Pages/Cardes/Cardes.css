@@ -1,0 +1,33 @@
+.Card {
+    display: flex;
+    flex-direction: row;
+    padding: 7rem 0rem;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #ff4655;   
+    color: #fff;
+}
+
+.Card-text {
+    width: 40%;
+}
+
+.Card-text h2{
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+
+.Card-text h1{
+    margin-bottom: 2.5rem;
+    font-size: 7rem; 
+    font-weight: 800;
+}
+
+.Card-text p{
+    margin: 2.5rem 0rem;
+    font-size: 2rem;
+}
+
+.Card-text hr{
+    border: 0.1rem solid #fff;
+}

@@ -3,8 +3,6 @@ import Link from "next/link";
 import imags from './imgs.json'
 import './CardAgentes.css';
 
-
-
 interface Imags {
     src : string;
     alt : string;
