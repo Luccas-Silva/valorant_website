@@ -1,0 +1,32 @@
+.CardsArsenal {
+    margin: 1rem;
+    padding: 2rem;
+    border: solid 0.5rem #0f1923;
+    cursor: pointer;
+}
+
+.CardsArsenal:hover {
+    transition: 0.5s;
+    border: solid 0.5rem #ff4655;
+    background: #ff4655;
+}
+
+.CardsArsenal h1 {
+   font-size: 5rem; 
+}
+
+.CardsArsenal:hover h1 {
+    color: #fff;
+    transition: 0.5s;
+}
+
+.CardsArsenal P{
+    font-size: 2rem; 
+    font-weight: 600;
+    color: #768079;
+ }
+
+ .CardsArsenal:hover p {
+    color: #fff;
+    transition: 0.5s;
+}
