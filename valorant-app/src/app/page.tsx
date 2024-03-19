@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <section className="inicio">
         <p className="txt-valorant">Um jogo de tiro tático 5x5 com personagens originais</p>
-        <Image className="valorant" src="/assets/V_Logo_White.png" width={750} height={150} alt="Logo Valorant"/>
+        <Image className="valorant" src="/assets/Logo_White.png" width={700} height={100} alt="Logo Valorant"/>
         <Jogarbtn/>
       </section>
       <h1 className="title"><hr/> NÓS SOMOS <br/> VALORANT</h1>
