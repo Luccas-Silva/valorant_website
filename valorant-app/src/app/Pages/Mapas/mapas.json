@@ -1,0 +1,48 @@
+[
+    {
+        "id" : 1,
+        "src" : "/assets/Mapas_imgs/Ascent.svg",
+        "alt": "Mapa Ascent"
+    },
+    {
+        "id" : 2,
+        "src" : "/assets/Mapas_imgs/Bind.svg",
+        "alt": "Mapa Bind"
+    },
+    {
+        "id" : 3,
+        "src" : "/assets/Mapas_imgs/Breeze.svg",
+        "alt": "Mapa Breeze"
+    },
+    {
+        "id" : 4,
+        "src" : "/assets/Mapas_imgs/Fracture.svg",
+        "alt": "Mapa Fracture"
+    },
+    {
+        "id" : 5,
+        "src" : "/assets/Mapas_imgs/Haven.svg",
+        "alt": "Mapa Haven"
+    },
+    {
+        "id" : 6,
+        "src" : "/assets/Mapas_imgs/Icebox.svg",
+        "alt": "Mapa Icebox"
+    },
+    {
+        "id" : 7,
+        "src" : "/assets/Mapas_imgs/Lotus.svg",
+        "alt": "Mapa Lotus"
+    },
+    {
+        "id" : 8,
+        "src" : "/assets/Mapas_imgs/Pearl.svg",
+        "alt": "Mapa Pearl"
+    },
+    {
+        "id" : 9,
+        "src" : "/assets/Mapas_imgs/Split.svg",
+        "alt": "Mapa Split"
+    }
+
+]
