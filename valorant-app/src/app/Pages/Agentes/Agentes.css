@@ -3,7 +3,7 @@
     height: 100dvh;
     background-image: url('/assets/Agentes_VALORANT.jpg');
     background-color: #111;
-    background-position: center top;
+    background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -15,8 +15,8 @@
 
 .Agentes_txt_inicio {
     width: 25%;
-    margin-top: 10rem;
-    margin-left: 10rem;
+    margin-top: 7rem;
+    margin-left: 7rem;
     color: #fff;
 }
 
@@ -28,6 +28,7 @@
 .Agentes_txt_inicio p {
     margin: 2.5rem 0rem;
     font-size: 2rem;
+    font-weight: 600;
 }
 
 .Agentes_txt_inicio hr {

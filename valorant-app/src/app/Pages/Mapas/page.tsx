@@ -10,10 +10,12 @@ export default function Mapas() {
 
     return (
         <>  
-            <h1>Mapas</h1>
+            <div>
                 {dados.map ((item : dados) =>(
                     <Image src={item.src} width={1000} height={550} alt={item.alt} />
                 ))}
+            </div>
+                
             
         
         </>
