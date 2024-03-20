@@ -18,11 +18,5 @@
         "id" : 4,
         "name" : "ARSENAL",
         "href" : "/Pages/Arsenal"
-    },
-    {
-        "id" : 5,
-        "name" : "NOTÍCIAS",
-        "href" : "/Pages/Agentes"
     }
-
 ]
