@@ -37,7 +37,7 @@ export default function Home() {
       </section>
 
       <section className="mapas">
-        <div className="mapas-text">
+        <div className="mapa-title">
           <h1><hr/> SEUS <br/> MAPAS</h1>
           <h2>BATALHE AO REDOR DO MUNDO</h2>
           <p>Cada mapa serve como um palco para mostrar sua criatividade. Os mapas são feitos sob medida para estratégias de equipe, jogadas espetaculares e momentos eletrizantes. Faça as jogadas que todo mundo vai tentar imitar no futuro!</p>

@@ -1,0 +1,42 @@
+.mapas-title {
+    margin: 5rem 5rem 0rem 7rem;
+    font-size: 7rem; 
+    font-weight: 800;
+    color: #0f1923;
+}
+
+.mapas-title hr {
+    margin-bottom: 3rem;
+    border: 0.1rem solid #0f1923;
+}
+
+.mapas-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 7rem 0rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.mapas-text {
+    position: relative;
+    z-index: 1;
+    margin-top: -5rem;
+    width: 45%;
+    padding: 2rem 5rem 5rem 5rem;
+    background: #0f1923;
+    border-radius: 1rem 10rem 1rem;
+}
+
+.mapas-text h2 {
+    margin: 2rem 0rem;
+    font-size: 3rem; 
+    font-weight: 800;
+    color: #fff;
+}
+
+.mapas-text p{
+    font-size: 2rem;
+    color: #fff;
+}

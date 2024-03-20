@@ -32,6 +32,8 @@
 
 .title hr {
     margin-bottom: 3rem;
+    border: 0.1rem solid #0f1923;
+    width: 50%;
 }
 
 .somos {
@@ -86,6 +88,7 @@
 }
 
 .agente-text h1 hr {
+    border: 0.1rem solid #fff;
     margin-bottom: 5rem;
 }
 
@@ -118,31 +121,32 @@
     align-items: center;
 }
 
-.mapas-text {
+.mapa-title {
     width: 30%;
     margin-left: 7rem;
     
 }
 
-.mapas-text h1 {
+.mapa-title h1 {
     margin-bottom: 5rem;
     font-size: 7rem; 
     font-weight: 800;
     color: #0f1923;
 }
 
-.mapas-text h1 hr {
+.mapa-title h1 hr {
     margin-bottom: 5rem;
+    border: 0.1rem solid #0f1923;
 }
 
-.mapas-text h2 {
+.mapa-title h2 {
     font-weight: 800;
     margin-bottom: 1.5rem;
     color: #383e3a;
     
 }
 
-.mapas-text p {
+.mapa-title p {
     font-size: 2rem; 
     margin-bottom: 5rem;
     color: #768079;
