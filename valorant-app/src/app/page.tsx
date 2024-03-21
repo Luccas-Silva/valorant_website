@@ -3,7 +3,6 @@ import Image from "next/image";
 import "./page.css";
 import Jogarbtn from "./Components/JogarBTN/page";
 import Link from "next/link";
-import { useEffect } from "react";
 
 export default function Home() {
   return (
