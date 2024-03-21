@@ -6,7 +6,7 @@ import { useEffect } from 'react';
 
 export default function Agentes() {
     useEffect(() => {
-        console.log("Renderizado Componente");
+        console.log("Renderizado Componente Agentes page");
     }, []);
     
     return (

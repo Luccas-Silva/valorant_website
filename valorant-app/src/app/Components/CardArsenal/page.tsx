@@ -13,7 +13,7 @@ interface Armas {
 
 export default function CardArsenal() {
     useEffect(() => {
-        console.log("Renderizado Componente");
+        console.log("Renderizado Componente Card Arma");
     }, []);
     return (
         <>  

@@ -17,6 +17,7 @@
     padding: 7rem 0rem;
     align-items: center;
     justify-content: center;
+    z-index: 0;
 }
 
 .mapas-imgs {
@@ -28,7 +29,7 @@
     margin-top: -5rem;
     width: 45%;
     padding: 2rem 5rem 5rem 5rem;
-    background: #0f1923;
+    background: #8b978f;
     border-radius: 1rem 10rem 1rem;
 }
 
@@ -42,4 +43,8 @@
 .mapas-text p{
     font-size: 2rem;
     color: #fff;
+}
+
+.swiper {
+    width: 80%;
 }

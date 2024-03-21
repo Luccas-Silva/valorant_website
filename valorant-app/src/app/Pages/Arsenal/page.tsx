@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 export default function Arsenal() {
     useEffect(() => {
-        console.log("Renderizado Componente");
+        console.log("Renderizado Componente Arsenal page");
     }, []);
     
     return (

@@ -6,6 +6,11 @@ footer {
     padding: 2rem 0rem;
 }
 
+footer .logo {
+    height: 7.5rem;
+    width: 7.5rem;
+}
+
 footer ul {
     display: flex;
 }

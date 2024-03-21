@@ -15,7 +15,7 @@ interface Dados {
 
 export default function Header() {
     useEffect(() => {
-        console.log("Renderizado Componente");
+        console.log("Renderizado Componente Header");
     }, []);
 
     return (

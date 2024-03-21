@@ -13,7 +13,7 @@ interface Imags {
 
 export default function CardAgentes() {
     useEffect(() => {
-        console.log("Renderizado Componente");
+        console.log("Renderizado Componente Card Agente");
     }, []);
     return (
         <>  

@@ -8,7 +8,7 @@ import { useEffect } from "react";
 
 export default function Chamber() {
     useEffect(() => {
-        console.log("Renderizado Componente");
+        console.log("Renderizado Componente Card");
     }, []);
     return (
         <>  
