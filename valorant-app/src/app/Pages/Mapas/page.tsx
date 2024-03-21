@@ -8,6 +8,10 @@ import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/scrollbar';
 
 interface dados {
     id : number;
@@ -28,6 +32,7 @@ export default function Mapas() {
                 <h1 className="mapas-title"><hr/>// MAPAS</h1>
 
                 <Swiper
+                    modules={[Navigation, Pagination]}
                     slidesPerView={slidesPerView}
                     navigation
                     pagination={{ clickable: true }}
