@@ -1,6 +1,8 @@
+'use client'
 import Image from "next/image";
 import armas from "./arsenal.json";
 import './CardArsenal.css';
+import { useEffect } from "react";
 
 interface Armas {
     name : string;
@@ -10,6 +12,9 @@ interface Armas {
 }
 
 export default function CardArsenal() {
+    useEffect(() => {
+        console.log("Renderizado Componente");
+    }, []);
     return (
         <>  
             {

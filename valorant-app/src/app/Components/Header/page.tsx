@@ -1,3 +1,4 @@
+'use client'
 import Link from "next/link";
 import Image from "next/image";
 
@@ -5,6 +6,7 @@ import "./Header.css";
 
 import dados from './links.json'
 import Jogarbtn from "../JogarBTN/page";
+import { useEffect } from "react";
 
 interface Dados {
     href : string;
@@ -12,6 +14,9 @@ interface Dados {
 }
 
 export default function Header() {
+    useEffect(() => {
+        console.log("Renderizado Componente");
+    }, []);
 
     return (
         <>

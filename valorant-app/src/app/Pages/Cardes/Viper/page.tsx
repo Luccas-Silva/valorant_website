@@ -1,9 +1,14 @@
-
+'use client'
 import Image from "next/image";
 import CardAgentes from "@/app/Components/CardAgentes/page";
 import "../Cardes.css";
+import { useEffect } from "react";
 
 export default function Viper() {
+    useEffect(() => {
+        console.log("Renderizado Componente");
+    }, []);
+    
     return (
         <>  
             <section className="Card">

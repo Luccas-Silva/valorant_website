@@ -1,48 +1,66 @@
 [
     {
         "id" : 1,
+        "nome": "01. Ascent",
         "src" : "/assets/Mapas_imgs/Ascent.svg",
-        "alt": "Mapa Ascent"
+        "alt": "Mapa Ascent",
+        "text": ""
     },
     {
         "id" : 2,
+        "nome": "02. Bind",
         "src" : "/assets/Mapas_imgs/Bind.svg",
-        "alt": "Mapa Bind"
+        "alt": "Mapa Bind",
+        "text": ""
     },
     {
         "id" : 3,
+        "nome": "03. Breeze",
         "src" : "/assets/Mapas_imgs/Breeze.svg",
-        "alt": "Mapa Breeze"
+        "alt": "Mapa Breeze",
+        "text": ""
     },
     {
         "id" : 4,
+        "nome": "04. Fracture",
         "src" : "/assets/Mapas_imgs/Fracture.svg",
-        "alt": "Mapa Fracture"
+        "alt": "Mapa Fracture",
+        "text": ""
     },
     {
         "id" : 5,
+        "nome": "05. Haven",
         "src" : "/assets/Mapas_imgs/Haven.svg",
-        "alt": "Mapa Haven"
+        "alt": "Mapa Haven",
+        "text": ""
     },
     {
         "id" : 6,
+        "nome": "06. Icebox",
         "src" : "/assets/Mapas_imgs/Icebox.svg",
-        "alt": "Mapa Icebox"
+        "alt": "Mapa Icebox",
+        "text": ""
     },
     {
         "id" : 7,
+        "nome": "07. Lotus",
         "src" : "/assets/Mapas_imgs/Lotus.svg",
-        "alt": "Mapa Lotus"
+        "alt": "Mapa Lotus",
+        "text": ""
     },
     {
         "id" : 8,
+        "nome": "08. Pearl",
         "src" : "/assets/Mapas_imgs/Pearl.svg",
-        "alt": "Mapa Pearl"
+        "alt": "Mapa Pearl",
+        "text": ""
     },
     {
         "id" : 9,
+        "nome": "09. Split",
         "src" : "/assets/Mapas_imgs/Split.svg",
-        "alt": "Mapa Split"
+        "alt": "Mapa Split",
+        "text": ""
     }
 
 ]

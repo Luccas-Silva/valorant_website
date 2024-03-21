@@ -1,7 +1,9 @@
+'use client'
 import Image from "next/image";
 import Link from "next/link";
 import imags from './imgs.json'
 import './CardAgentes.css';
+import { useEffect } from "react";
 
 interface Imags {
     src : string;
@@ -10,6 +12,9 @@ interface Imags {
 }
 
 export default function CardAgentes() {
+    useEffect(() => {
+        console.log("Renderizado Componente");
+    }, []);
     return (
         <>  
             

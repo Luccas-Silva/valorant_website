@@ -1,5 +1,5 @@
 .mapas-title {
-    margin: 5rem 5rem 0rem 7rem;
+    margin: 5rem 5rem 5rem 7rem;
     font-size: 7rem; 
     font-weight: 800;
     color: #0f1923;
@@ -19,9 +19,12 @@
     justify-content: center;
 }
 
+.mapas-imgs {
+    border-radius: 1rem;
+}
+
 .mapas-text {
     position: relative;
-    z-index: 1;
     margin-top: -5rem;
     width: 45%;
     padding: 2rem 5rem 5rem 5rem;

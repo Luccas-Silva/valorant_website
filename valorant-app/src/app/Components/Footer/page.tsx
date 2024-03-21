@@ -1,7 +1,11 @@
-
+'use client'
+import { useEffect } from "react";
 import "./Footer.css";
 
 export default function Footer() {
+    useEffect(() => {
+        console.log("Renderizado Componente");
+    }, []);
     return (
         <>  
             <footer>

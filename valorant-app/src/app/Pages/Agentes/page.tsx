@@ -1,8 +1,14 @@
-
+'use client'
 import CardAgentes from '@/app/Components/CardAgentes/page';
 import './Agentes.css'
+import { useEffect } from 'react';
+
 
 export default function Agentes() {
+    useEffect(() => {
+        console.log("Renderizado Componente");
+    }, []);
+    
     return (
         <>    
             <section className="Agentes_inicio">

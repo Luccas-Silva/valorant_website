@@ -1,8 +1,13 @@
-
+'use client'
 import CardArsenal from "@/app/Components/CardArsenal/page";
 import "./Arsenal.css"
+import { useEffect } from "react";
 
 export default function Arsenal() {
+    useEffect(() => {
+        console.log("Renderizado Componente");
+    }, []);
+    
     return (
         <>  
             <section className="Arsenal-title">
