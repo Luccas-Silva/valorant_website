@@ -1,21 +1,9 @@
 # Valorant WebSite
-> *Valorant WebSite Valorant WebSite Valorant WebSite Valorant WebSite* 
-   
-## Descrição
-Acompanhamento por meio de um portfólio que engloba toda a trajetória do
-paciente naquela especialidade, compensando a ausência de acompanhamento
-médico direto. Isso permite que o médico análise todos os tratamentos previamente
-realizados na especialidade específica e tome decisões sobre exames e prescrições
-com base em informações já disponíveis, caso existam.
-O sistema tecnológico apoia na tomada de decisões, distinguindo entre consultas
-necessárias para solucionar diferentes tipos de doenças, independentemente de sua
-frequência. Isso assegura a eficácia do tratamento, evitando procedimentos
-redundantes.
+Neste projeto, embarco em uma empolgante jornada para construir um site completo sobre o jogo Valorant, utilizando as tecnologias React, TypeScript, JSON e NEXT. O objetivo é criar uma plataforma informativa e envolvente para os fãs do jogo, reunindo informações detalhadas sobre agentes, mapas, armas, estratégias e muito mais.
 
-## Tecnologias usadas
+## Tecnologias:
 - `HTML`
 - `CSS`
-- `JavaScript`
 - `React`
 - `TypeScript`
 - `Figma`
