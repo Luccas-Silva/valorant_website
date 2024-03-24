@@ -21,7 +21,6 @@ nav ul li {
     list-style: none;
 }
 
-
 nav ul li a {
     display: block;
     text-decoration: none;
@@ -31,6 +30,8 @@ nav ul li a {
     font-weight: 600;
     border-radius: 1rem;
 }
+
+
 
 nav ul li a:hover {
     background-color: #ff4655;

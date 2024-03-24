@@ -3,6 +3,12 @@ import { useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import "./Footer.css";
+import dados from './links.json'
+
+interface Dados {
+    href : string;
+    name : string;
+}
 
 export default function Footer() {
     useEffect(() => {
@@ -20,10 +26,15 @@ export default function Footer() {
                         alt="Logo do Valorant"
                     />    
                 </Link>
+                <Link className="" href="/" target="_blank">
+                       
+                </Link>
                 <ul>
-                    <li>Nome: Luccas Silva - RM: 552890</li>
-                    <li>Nome: Bruno Burian - RM: 552863</li>
-                    <li>Nome: Leonardo Chaves - RM: 552707</li>
+                    {
+                        dados.map((link:Dados) =>(
+                            <li><Link target="_blank" href={ link.href }>{ link.name } </Link></li>
+                        ))
+                    }
                 </ul>
             </footer>
         </>

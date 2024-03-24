@@ -6,6 +6,7 @@ footer {
     padding: 2rem 0rem;
 }
 
+
 footer .logo {
     height: 7.5rem;
     width: 7.5rem;
@@ -17,8 +18,19 @@ footer ul {
 
 footer ul li {
     list-style: none;
+}
+
+footer ul li a {
     display: block;
+    text-decoration: none;
     color: #fff;
-    margin: 0 1rem;
-    font-weight: 600;   
+    padding: 1rem;
+    margin: 0 3.5rem;
+    font-weight: 600;
+    border-radius: 1rem;
+    font-size: 2rem;
+}
+
+footer ul li a:hover {
+    background-color: #ff4655;
 }
